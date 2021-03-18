@@ -54,4 +54,8 @@ builds/**/images/*
 .elasticbeanstalk/*
 !.elasticbeanstalk/*.cfg.yml
 !.elasticbeanstalk/*.global.yml
+<<<<<<< HEAD
 © 2021 GitHub, Inc.
+=======
+© 2021 GitHub, Inc.
+>>>>>>> 302c068ec84518444050bab6da01489abc6658ed
